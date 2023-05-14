@@ -1,4 +1,4 @@
-# Angelo Herrera Hernandez
+# Angelo Herrera
 
 ## About me
 
@@ -31,11 +31,6 @@ Hello! I'm Angelo Herrera Hernandez, a self-taught and passionate programmer who
 
 -   🌟 ReactJS, TypeScript, ExpressJS
 
-## Interested in learning
+## 📚 Interested in learning
 
 -   🤓 Go, Kotlin, Nuxt
-
-## Contact
-
--  Email: [angelohh29.04@gmail.com](mailto:angelohh29.04@gmail.com)
--  LinkedIn: [linkedin.com/in/angelo-herrera-24007925b/](https://www.linkedin.com/in/angelo-herrera-24007925b/)
