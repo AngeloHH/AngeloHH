@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello! I'm Angelo Herrera Hernandez, a self-taught and passionate programmer who enjoys continuous learning. Currently, I don't have any work experience, but I have worked on some personal projects. I use Linux as my desktop operating system in my day-to-day life.
+Hello! I'm Angelo Herrera, a self-taught and passionate programmer who enjoys continuous learning. Currently, I don't have any work experience, but I have worked on some personal projects. I use Linux as my desktop operating system in my day-to-day life.
 
 ## 💼 Projects
 
@@ -21,7 +21,7 @@ Hello! I'm Angelo Herrera Hernandez, a self-taught and passionate programmer who
 <img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi" height="25" />
 <img src="https://img.shields.io/badge/Vue.JS-282C34?logo=vue.js" height="25" />
 <img src="https://img.shields.io/badge/Node.JS-282C34?logo=node.js" height="25" />
-<img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite" height="25" />
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" height="25" />
 <img src="https://img.shields.io/badge/Git-282C34?logo=git" height="25" />
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" height="25" />
 <img src="https://img.shields.io/badge/Linux-282C34?logo=linux" height="25" />
@@ -29,8 +29,8 @@ Hello! I'm Angelo Herrera Hernandez, a self-taught and passionate programmer who
 
 ## 📖 Currently learning
 
--   🌟 ReactJS, TypeScript, ExpressJS
+-   🌟 ReactJS, TypeScript, ExpressJS, ML with SpaCy and scikit-learn
 
 ## 📚 Interested in learning
 
--   🤓 Go, Kotlin, Nuxt
+-   🤓 Go, Kotlin, ML with Keras and PyTorch
