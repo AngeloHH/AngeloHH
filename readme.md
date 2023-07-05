@@ -2,7 +2,9 @@
 
 ## About me
 
-Hello! I'm Angelo Herrera, a self-taught and passionate programmer who enjoys continuous learning. Currently, I don't have any work experience, but I have worked on some personal projects. I use Linux as my desktop operating system in my day-to-day life.
+Hello! I'm Angelo Herrera, a self-taught and passionate programmer who enjoys continuous learning. I have worked at JovenClub (Cuban national network) as a programmer for an anti-cheat system in a game for 2 years. In addition, I have worked on some personal projects. I use Linux as my desktop operating system in my day-to-day life.
+
+I enjoy listening to my colleagues and gaining different insights, as I believe this enriches the creativity and problem-solving process. I am open to learning from others and working as a team to achieve the best outcomes.
 
 ## 💼 Projects
 
